@@ -1,7 +1,7 @@
 # ♻️ ECOSORT — Système Intelligent de Tri des Déchets
 
 ## Description
-Système embarqué de tri automatique des déchets recyclables 
+Système de tri automatique des déchets recyclables 
 basé sur la vision par ordinateur et l'intelligence artificielle.
 Développé dans le cadre du PCD — ENSI 2025/2026.
 
